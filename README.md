@@ -1,6 +1,6 @@
-# ShipAny Template One
+# Sy Template One
 
-Ship Any AI SaaS Startups in hours.
+Sy AI SaaS Startups in hours.
 
 ![preview](preview.png)
 
